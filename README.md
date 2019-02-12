@@ -5,6 +5,14 @@ Nick Diakopoulos [Computational Journalism Lab (CJL) : Director]
 
 ## Syllabus
 ### Module 1: Algorithmic News Media
+This module provides a broad overview of how algorithmic approaches are being used throughout journalism, including in areas like content production and computational story discovery.
+
+We’ll talk about which tasks algorithms are good at, which tasks people are still better at, and about how to blend algorithms and people together in productive workflows. We’ll also talk about what it means to develop computational thinking skills and how to apply them in news production. This module will cover:
+
+* What algorithms are and how they’re used in news production
+* How data mining can help monitor for and discover news stories
+* How to apply computational thinking in your work
+
 
 ### Module 2: Automated Content Production
 
