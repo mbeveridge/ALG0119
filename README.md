@@ -1,7 +1,7 @@
 # Knight Center MOOC : "[News Algorithms: The Impact of Automation & AI on Journalism](https://journalismcourses.org/ALG0119.html)"
 ###### 11/2/19 - 10/3/19
 
-Nick Diakopoulos [Computational Journalism Lab (CJL) : Director]
+Nick Diakopoulos [[Computational Journalism Lab](http://cjlab.stanford.edu/) (CJL) : Director]
 
 ## Syllabus
 ### Module 1: Algorithmic News Media
