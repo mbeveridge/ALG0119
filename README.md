@@ -11,7 +11,7 @@ We’ll talk about which tasks algorithms are good at [*Calculate; Prioritize; C
 
 * What algorithms are and how they’re used in news production ...[*Data mining; Automated content production; Algorithmic news distribution*]
 * How data mining can help monitor for and discover news stories ...[*Benefits : More comprehensive; Continuous monitoring; Speed*]
-* How to apply computational thinking in your work
+* How to apply computational thinking in your work ...[*Facets : Modeling; Decomposition (of tasks); Parameterization*]
 
 
 ### Module 2: Automated Content Production
