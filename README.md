@@ -5,7 +5,7 @@ Nick Diakopoulos [[Computational Journalism Lab](http://cjlab.stanford.edu/) (CJ
 
 ## Syllabus
 ### Module 1: Algorithmic News Media
-This module provides a broad overview of how algorithmic approaches are being used throughout journalism, including in areas like content production and computational story discovery.
+A broad overview of how algorithmic approaches are being used throughout journalism, including in areas like content production and computational story discovery.
 
 We’ll talk about which **tasks algorithms are good at** [*Calculate; Prioritize; Classify; Associate; Filter*], which **tasks people are still better at** [*Complex communication; Expert Thinking; Dynamic*], and about how to blend algorithms and people together in productive workflows. We’ll also talk about what it means to develop computational thinking skills and how to apply them in news production. This module will cover:
 
@@ -15,6 +15,14 @@ We’ll talk about which **tasks algorithms are good at** [*Calculate; Prioritiz
 
 
 ### Module 2: Automated Content Production
+A lot more detail on automated content production, including how it works and is used by news organizations, as well as covering its benefits and limitations so you know when it might be appropriate to deploy.
+
+I’ll also demonstrate the basics for how to write a template using a tool called Arria Studio, which is a word processor for creating your own automated content. This module will cover:
+
+* How automated content works and is used by news organizations
+* What the benefits and limitations of automated content are for news production
+* How to write a template to drive automated text production
+
 
 ### Module 3: Algorithms in News Curation and Dissemination
 
