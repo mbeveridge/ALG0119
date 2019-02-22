@@ -15,12 +15,12 @@ We’ll talk about which **tasks algorithms are good at** [*Calculate; Prioritiz
 
 
 ### Module 2: Automated Content Production
-A lot more detail on automated content production, including how it works and is used by news organizations, as well as covering its benefits and limitations so you know when it might be appropriate to deploy.
+A lot more detail on automated content production, so you know when it might be appropriate to deploy. I’ll also demonstrate the basics for how to write a template using a tool called Arria Studio, which is a word processor for creating your own automated content.
 
-I’ll also demonstrate the basics for how to write a template using a tool called Arria Studio, which is a word processor for creating your own automated content. This module will cover:
+This module will cover:
 
 * How automated content works and is used by news organizations
-* What the benefits and limitations of automated content are for news production
+* What the **benefits and limitations** of automated content are for news production ...[*Benefits : Speed; Scale; Accuracy; Personalization*] []
 * How to write a template to drive automated text production
 
 
