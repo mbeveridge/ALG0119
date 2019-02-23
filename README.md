@@ -20,7 +20,7 @@ A lot more detail on automated content production, so you know when it might be 
 This module will cover:
 
 * How automated content works and is used by news organizations ...[*‘Standard NLG Model’ (3 phases)*]
-* What the **benefits and limitations** of automated content are for news production ...[*Benefits : Speed; Scale; Accuracy; Personalization*] [*Limitations :*]
+* What the **benefits and limitations** of automated content are for news production ...[*Benefits : Speed; Scale; Accuracy; Personalization*] [*Limitations : Data access; Why & How; Social&Legal reasoning; Writing quality*]
 * How to write a template to drive automated text production
 
 
