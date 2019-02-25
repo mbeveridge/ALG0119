@@ -23,6 +23,11 @@ A lot more detail on automated content production, so you know when it might be 
 
 
 ### Module 3: Algorithms in News Curation and Dissemination
+We’ll talk about algorithms in news curation and dissemination, (like at Google, Facebook, and Apple News), which use algorithms in different ways **to drive exposure to content**. We’ll also talk about how to think about metrics and **how editorial criteria can be encoded into the curation algorithms**. This module will cover:
+
+* The role and power of platform curation algorithms in news **distribution**
+* Approaches to content **optimization** and how to think about metrics for content optimization
+
 
 ### Module 4: Algorithmic Accountability & Transparency
 
