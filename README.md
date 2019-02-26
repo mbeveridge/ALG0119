@@ -22,8 +22,8 @@ A lot more detail on automated content production, so you know when it might be 
 * How to write a template to drive automated text production ...[*[Arria Studio](https://www.arria.com/studio/studio-overview/)*]
 
 
-### Module 3: Algorithms in News Curation and Dissemination
-We’ll talk about algorithms in news curation and dissemination, (like at Google, Facebook, and Apple News), which use algorithms in different ways **to drive exposure to content**. We’ll also talk about how to think about metrics and **how editorial criteria can be encoded into the curation algorithms**. This module will cover:
+### Module 3: Algorithms in News Curation & Dissemination
+We’ll talk about algorithms in news curation & dissemination, (like at Google, Facebook, and Apple News), which use algorithms in different ways **to drive exposure to content**. We’ll also talk about how to think about metrics and **how editorial criteria can be encoded into the curation algorithms**. This module will cover:
 
 * The role and power of platform curation algorithms in news **distribution**
 * Approaches to content **optimization** and how to think about **metrics** for content optimization ...[*Approaches : A/B Headline Testing; Recommendation widgets; Timing*] [*Metrics : Align with business and with content strategy; No 'one metric' to rule them all*]
