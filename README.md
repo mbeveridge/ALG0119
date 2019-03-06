@@ -32,7 +32,7 @@ We’ll talk about algorithms in news curation & dissemination, (like at Google,
 ### Module 4: Algorithmic Accountability & Transparency
 We’ll talk about how algorithms are creating a new object for journalistic investigation, which is giving rise to a specialized practice called algorithmic accountability reporting. I’ll detail what **methods you can use to investigate algorithms** on this beat, and I’ll talk about **how you can be more responsible** with the algorithms you might incorporate into your newswork. This module will cover:
 
-* Why investigating algorithms in society is important for journalism
+* Why investigating algorithms in society is important for journalism ...[*Bad Decisions (potential for harm); Violate Expectations (of how an algorithm ought to be operating); Public Significance (consequences of a bad decision)*] [*Four Angles on Algorithms : Discrimination or unfairness; Errors & mistakes; Violation of laws or social norms; Human misuse*]
 * How to approach investigation of algorithms using different methods
 * How to be transparent with your own use of algorithms in newswork
 
