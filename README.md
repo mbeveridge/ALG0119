@@ -38,4 +38,4 @@ We’ll talk about how algorithms are creating a new object for journalistic inv
 
 ---
 
-![certificate](MAP0918_Certificate.png "certificate")
+![certificate](ALG0119_Certificate.png "certificate")
